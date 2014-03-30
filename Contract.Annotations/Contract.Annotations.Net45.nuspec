@@ -15,4 +15,7 @@
 		<copyright>Copyright 2014</copyright>
 		<tags>annotations resharper jetbrains jetbrains.annotations design contract</tags>
 	</metadata>
+	<files>
+		<file src="bin\Debug\net20\Contract.Annotations.*" target="lib\net20" />
+	</files>
 </package>
