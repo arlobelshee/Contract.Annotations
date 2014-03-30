@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<package>
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<title>$title$</title>
+		<authors>$author$</authors>
+		<owners>$author$</owners>
+		<licenseUrl>http://www.opensource.org/licenses/mit-license</licenseUrl>
+		<projectUrl>https://github.com/arlobelshee/Contract.Annotations</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>$description$</description>
+		<releaseNotes>Supports all attributes known by ReSharper up to 8.2, plus some non-ReSharper annotations.</releaseNotes>
+		<copyright>Copyright 2014</copyright>
+		<tags>annotations resharper jetbrains jetbrains.annotations design contract</tags>
+	</metadata>
+</package>
