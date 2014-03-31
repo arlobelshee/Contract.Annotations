@@ -20,6 +20,6 @@
 		<file src="bin\Debug\net35\Contract.Annotations.*" target="lib\net35" />
 		<file src="bin\Debug\net40\Contract.Annotations.*" target="lib\net40" />
 		<file src="bin\Debug\portable-net40+sl5+wp71+windows8\Contract.Annotations.*" target="lib\portable-net40+sl5+wp71+windows8" />
-		<file src="bin\x86\Debug\windows8\Contract.Annotations.*" target="lib\windows8\" />
+		<file src="bin\Debug\windows8\Contract.Annotations.*" target="lib\windows8\" />
 	</files>
 </package>
