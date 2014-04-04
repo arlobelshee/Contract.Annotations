@@ -7,8 +7,8 @@
     <ProjectGuid>{1B5A30BA-3A6C-4A3C-ABEA-7C81D84BA18B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Contract.Annotations.net20</RootNamespace>
-    <AssemblyName>Contract.Annotations.net20</AssemblyName>
+    <RootNamespace>Contract.Annotations</RootNamespace>
+    <AssemblyName>Contract.Annotations</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\bin\Debug\</OutputPath>
+    <OutputPath>..\bin\Debug\net20\</OutputPath>
 		<IntermediateOutputPath>..\obj\Debug\Net20\</IntermediateOutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
@@ -25,7 +25,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\bin\Release\</OutputPath>
+    <OutputPath>..\bin\Release\net20\</OutputPath>
 		<IntermediateOutputPath>..\obj\Release\Net20\</IntermediateOutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>

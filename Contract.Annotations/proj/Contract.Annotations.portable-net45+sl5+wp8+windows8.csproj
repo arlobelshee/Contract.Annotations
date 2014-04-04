@@ -8,8 +8,8 @@
     <ProjectGuid>{1D0D1911-01DB-4B83-B067-38E5FF140A44}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Contract.Annotations.portable_net45_sl5_wp8_windows8</RootNamespace>
-    <AssemblyName>Contract.Annotations.portable-net45+sl5+wp8+windows8</AssemblyName>
+    <RootNamespace>Contract.Annotations</RootNamespace>
+    <AssemblyName>Contract.Annotations</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Profile158</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -19,7 +19,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\bin\Debug\</OutputPath>
+    <OutputPath>..\bin\Debug\portable-net45+sl5+wp8+windows8\</OutputPath>
 		<IntermediateOutputPath>..\obj\Debug\portable-net45+sl5+wp8+windows8\</IntermediateOutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
@@ -28,7 +28,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\bin\Release\</OutputPath>
+    <OutputPath>..\bin\Release\portable-net45+sl5+wp8+windows8\</OutputPath>
 		<IntermediateOutputPath>..\obj\Release\portable-net45+sl5+wp8+windows8\</IntermediateOutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>

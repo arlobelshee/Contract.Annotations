@@ -7,8 +7,8 @@
     <ProjectGuid>{19F4DD7B-323A-4ADB-8B65-717EDA3F50D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Contract.Annotations.net35</RootNamespace>
-    <AssemblyName>Contract.Annotations.net35</AssemblyName>
+    <RootNamespace>Contract.Annotations</RootNamespace>
+    <AssemblyName>Contract.Annotations</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\bin\Debug\</OutputPath>
+    <OutputPath>..\bin\Debug\net35\</OutputPath>
 		<IntermediateOutputPath>..\obj\Debug\Net35\</IntermediateOutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
@@ -25,7 +25,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\bin\Release\</OutputPath>
+    <OutputPath>..\bin\Release\net35\</OutputPath>
 		<IntermediateOutputPath>..\obj\Release\Net35\</IntermediateOutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
