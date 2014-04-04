@@ -37,6 +37,11 @@
 		<Reference Include="System.Xml" />
 	</ItemGroup>
 	<ItemGroup>
+		<Compile Include="..\..\GildedRose\src\**\*.cs">
+      <Link>%(RecursiveDir)%(Filename)</Link>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
 		<Compile Include="Properties\AssemblyInfo.cs" />
 	</ItemGroup>
 	<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -22,9 +22,6 @@
 		<Reference Include="System.Xml" />
 	</ItemGroup>
 	<ItemGroup>
-		<Compile Include="ReSharperAnnotations.cs" />
-	</ItemGroup>
-	<ItemGroup>
 		<None Include="Contract.Annotations.Net45.nuspec" />
 		<None Include="Package.bat" />
 	</ItemGroup>
