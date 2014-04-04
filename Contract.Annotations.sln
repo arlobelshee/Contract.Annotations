@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.net20", "Contract.Annotations.net20\Contract.Annotations.net20.csproj", "{1B5A30BA-3A6C-4A3C-ABEA-7C81D84BA18B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.net20", "Contract.Annotations\proj\Contract.Annotations.net20.csproj", "{1B5A30BA-3A6C-4A3C-ABEA-7C81D84BA18B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.net35", "Contract.Annotations.net35\Contract.Annotations.net35.csproj", "{19F4DD7B-323A-4ADB-8B65-717EDA3F50D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.net35", "Contract.Annotations\proj\Contract.Annotations.net35.csproj", "{19F4DD7B-323A-4ADB-8B65-717EDA3F50D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.net45", "Contract.Annotations.net45\Contract.Annotations.net45.csproj", "{1333B324-9D7A-476E-B10C-DDC0B0177623}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.net45", "Contract.Annotations\proj\Contract.Annotations.net45.csproj", "{1333B324-9D7A-476E-B10C-DDC0B0177623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.portable-net45+sl5+wp8+windows8", "Contract.Annotations.portable-net45+sl5+wp8+windows8\Contract.Annotations.portable-net45+sl5+wp8+windows8.csproj", "{1D0D1911-01DB-4B83-B067-38E5FF140A44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.portable-net45+sl5+wp8+windows8", "Contract.Annotations\proj\Contract.Annotations.portable-net45+sl5+wp8+windows8.csproj", "{1D0D1911-01DB-4B83-B067-38E5FF140A44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.windows8", "Contract.Annotations.windows8\Contract.Annotations.windows8.csproj", "{02B4F4A6-5C53-4307-A12E-9B2104742EF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contract.Annotations.windows8", "Contract.Annotations\proj\Contract.Annotations.windows8.csproj", "{02B4F4A6-5C53-4307-A12E-9B2104742EF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
